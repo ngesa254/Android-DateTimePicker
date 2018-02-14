@@ -5,9 +5,9 @@
 Image
 -----
 
-<img src="Images/ta.png" alt="phone image" width="200px" />
-<img src="Images/tb.png" alt="phone image" width="200px" />
-<img src="Images/tc.png" alt="phone image" width="200px" />
+<img src="Images/dp.png" alt="phone image" width="200px" />
+<img src="Images/tp.png" alt="phone image" width="200px" />
+
 
 Setup Requirements
 ----------------
